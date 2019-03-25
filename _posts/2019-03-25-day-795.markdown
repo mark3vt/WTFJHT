@@ -1,7 +1,7 @@
 ---
 title: Day 795
 date: 2019-03-25 08:21:00 -07:00
-description: No conclusion.
+description: No Collusion!
 image: "/uploads/795.jpg"
 ---
 
